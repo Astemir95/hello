@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Github.PullRequest.Zip.Commits.Toggle">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+</keymap>
